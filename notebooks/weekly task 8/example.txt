@@ -1,3 +1,0 @@
-This is an example file
-It contains multiple lines
-And some words for testing
